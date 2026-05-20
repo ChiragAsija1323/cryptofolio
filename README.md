@@ -37,5 +37,4 @@ npm start
 - React 18
 - Chart.js + react-chartjs-2
 - CoinGecko API (free tier)
-- Claude AI API (for chatbot)
 - localStorage for persistence
